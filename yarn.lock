@@ -2566,9 +2566,9 @@ supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
 
-systeminformation@^3.18.0:
-  version "3.18.0"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-3.18.0.tgz#028e24365f7c9377b3cc962ef2c05b5029191112"
+systeminformation@^4.30.5:
+  version "4.30.5"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.30.5.tgz#2219c305c8be56a2cfa527a5519c45bc81d4916c"
 
 tar-pack@^3.4.0:
   version "3.4.0"
