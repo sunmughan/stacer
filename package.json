@@ -38,7 +38,7 @@
     "clean-package": "rm -r release-builds/ dest/"
   },
   "dependencies": {
-    "chart.js": "^2.6.0",
+    "chart.js": "^2.9.4",
     "chartkick": "^2.2.4",
     "chokidar": "^1.7.0",
     "jquery": "^3.2.1",
