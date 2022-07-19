@@ -43,7 +43,7 @@
     "chokidar": "^1.7.0",
     "jquery": "^3.2.1",
     "progressbar.js": "^1.0.1",
-    "properties-reader": "^0.0.15",
+    "properties-reader": "^2.2.0",
     "sudo-prompt": "^7.0.0",
     "systeminformation": "^3.18.0",
     "winston": "^2.3.1"
